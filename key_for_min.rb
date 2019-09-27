@@ -2,7 +2,7 @@
 
 def key_for_min_value(name_hash)
   low_key = nil 
-  low_value = 
+  low_value = Float::
   
 name_hash.collect do |key, value|
   
