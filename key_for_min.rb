@@ -9,4 +9,5 @@ name_hash.each do |key, value|
     low_key = k 
   end
   end
+  low_key
 end
