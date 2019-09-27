@@ -1,7 +1,8 @@
 
 
 def key_for_min_value(name_hash)
-  low = 
+  low = nil 
+  
 name_hash.collect do |key, value|
   
     return key
